@@ -1,1 +1,1 @@
-# mygallary
+# College Details
